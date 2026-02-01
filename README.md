@@ -24,7 +24,6 @@ I'm an IT Engineering leader and a hands-on platform engineer focused on **conta
 **Linux:** Fedora, RHEL / UBI
 **Tooling:** Git, GitHub Actions, Ansible, JFrog Artifactory
 **Observability:** Grafana, Prometheus, Splunk
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zanick777&layout=compact&langs_count=8&hide=html,css)
 
 ## 📊 What You'll Find Here
 - Container image tooling and experiments
